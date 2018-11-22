@@ -1,0 +1,33 @@
+body {
+	font-family: Verdana, sans-serif;
+}
+p {
+	color: #655560;
+}
+h1 {
+	color: #878C8F;
+}
+h2 {
+	color: #A4969B;
+}
+h3 {
+	color: #A4969B;
+}
+header img.logo {
+	height: 50px;
+	
+}
+header {
+	background-color: #A4969B;	
+	text-align: center;
+}
+footer {
+	text-align: right;
+	background-color: #A4969B;
+	padding: 1em;
+	color: white;
+}
+.col-md-3 {
+	border: 1px solid;
+	margin-top: 1em;
+}
